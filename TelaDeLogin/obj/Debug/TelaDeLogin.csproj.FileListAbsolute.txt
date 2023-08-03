@@ -1,0 +1,15 @@
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.exe.config
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.exe
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.pdb
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.csproj.AssemblyReference.cache
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Properties.Resources.resources
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.csproj.GenerateResource.cache
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.csproj.CoreCompileInputs.cache
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.exe
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.pdb
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Atualizar.resources
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Cadastrar.resources
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Consultar.resources
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Excluir.resources
+C:\Users\marcel.rmpenha\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Botoes.resources
