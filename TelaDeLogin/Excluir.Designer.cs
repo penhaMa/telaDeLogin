@@ -48,10 +48,12 @@
             // 
             this.maskedTextBox1.Font = new System.Drawing.Font("Arial Narrow", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.maskedTextBox1.Location = new System.Drawing.Point(120, 88);
-            this.maskedTextBox1.Mask = "000-000-000-00";
+            this.maskedTextBox1.Mask = "99999999999";
             this.maskedTextBox1.Name = "maskedTextBox1";
             this.maskedTextBox1.Size = new System.Drawing.Size(161, 35);
             this.maskedTextBox1.TabIndex = 30;
+            this.maskedTextBox1.ValidatingType = typeof(int);
+            this.maskedTextBox1.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox1_MaskInputRejected);
             // 
             // label1
             // 
@@ -73,6 +75,7 @@
             this.button1.TabIndex = 31;
             this.button1.Text = "EXCLUIR";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Excluir
             // 
